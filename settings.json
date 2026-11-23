@@ -1,0 +1,12 @@
+{
+  "threshold_percent": 25.0,
+  "semantic_threshold": 0.83,
+  "shingle_threshold": 0.5,
+  "shingle_size": 5,
+  "window_sentences": 3,
+  "window_step": 2,
+  "min_fragment_words": 5,
+  "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "db_path": "data/originality.db",
+  "log_path": "data/check.log"
+}
